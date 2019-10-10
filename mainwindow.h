@@ -20,6 +20,7 @@ private:
 
 public slots:
     void mark();
+    void resetGame();
 
 };
 #endif // MAINWINDOW_H
